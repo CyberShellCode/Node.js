@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "up": "echo 'Yarn up succeeded'"  // this is what Render will call
+    "up": "echo 'Yarn up succeeded'"
   },
   "dependencies": {
     "express": "^4.18.2"
