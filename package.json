@@ -1,0 +1,12 @@
+{
+  "name": "ssrf-redirector",
+  "version": "1.0.0",
+  "description": "A simple SSRF redirect server",
+  "main": "server.js",
+  "scripts": {
+    "up": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
